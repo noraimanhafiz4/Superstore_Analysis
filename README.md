@@ -29,6 +29,6 @@ The end-to-end data pipeline is structured as follows:
 * **View Script:** [2_eda.sql](scripts/2_eda.sql)
 
 ## 🧰 Tech Stack
-* **Database:** SQL (MySQL/PostgreSQL)
+* **Database:** SQL (MySQL)
 * **Visualization:** Power BI Desktop
 * **Analysis Methodology:** Descriptive & Diagnostic Analytics
